@@ -96,4 +96,11 @@ footer {
 
   color: rgba(39, 33, 66, 0.4);
 }
-
+.weather-forecast {
+margin: 20px;
+text-align: center;
+}
+.weather-forecast date {
+  font-size: 13px;
+  color:#000
+}
